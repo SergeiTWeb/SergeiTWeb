@@ -1,17 +1,18 @@
 # Hi there, I'm Sergei Tumanov! 👋
 
-### 💻 Full-Stack Web Developer & Technical QA Specialist
+### Full-Stack Web Developer & Technical QA Specialist
 Results-oriented developer with 9+ years of practical experience building responsive, user-friendly web applications and ensuring their quality. I combine formal technical qualifications with a strong background in project coordination, client support, and manual testing. 
 
-📍 **Location**: Remote (CET) / Australia / Finland / Russia 
-🎓 **Education**: Diploma of IT (Full-Stack), ITMO University (2026)  
-🌐 **Portfolio**: [web.sergeitumanov.com](https://web.sergeitumanov.com)  
-💼 **LinkedIn**: [linkedin.com/in/sergei-tumanov](https://linkedin.com/in/sergei-tumanov)  
-📧 **Email**: [sergeitumanov.web@gmail.com](mailto:sergeitumanov.web@gmail.com)  
+**Location**: Remote (CET)
+
+**Education**: Diploma of IT (Full-Stack), ITMO University (2026)  
+**Portfolio**: [web.sergeitumanov.com](https://web.sergeitumanov.com)  
+**LinkedIn**: [linkedin.com/in/sergei-tumanov](https://linkedin.com/in/sergei-tumanov)  
+**Email**: [sergeitumanov.web@gmail.com](mailto:sergeitumanov.web@gmail.com)  
 
 ---
 
-### 🛠️ Core Technical Skills
+### Core Technical Skills
 
 **Frontend Development**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,24 +36,24 @@ Results-oriented developer with 9+ years of practical experience building respon
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🎵 [My Music Collection](https://github.com/SergeiTWeb/myCollection)
+#### [My Music Collection](https://github.com/SergeiTWeb/myCollection)
 A modern, full-stack web application for cataloging, managing, and searching physical music media (CDs, vinyl, cassettes) via the Discogs API.
 - **Tech Stack**: React 18, Vite, Node.js, Express, MySQL, JWT, Nodemailer
 - **Key Features**: Secure JWT authentication, dual-list management (Collection/Wishlist), CSV export, dark/light theming, and a responsive "art gallery" UI.
 
-#### 🏆 [The Tiebreaker](https://github.com/SergeiTWeb/thetiebreaker)
+#### [The Tiebreaker](https://github.com/SergeiTWeb/thetiebreaker)
 *[Brief 1-sentence description of what this project does, e.g., "A dynamic web application designed to..."]*
 - **Tech Stack**: [e.g., React, Node.js, PHP, etc.]
 - **Key Features**: [e.g., Real-time data processing, responsive UI, end-to-end testing, etc.]
 
-#### 🛒 E-Commerce Expansion (SummerTech Live Project)
+#### E-Commerce Expansion (SummerTech Live Project)
 Led the end-to-end WordPress & WooCommerce expansion for a local business, including database/product migration, technical SEO optimization, and rigorous E2E functional testing.
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 - **Projects Coordinator & Freelance Web Developer** @ *OpenTips, Melbourne* (2014 – 2023)  
   Managed full project lifecycles, built responsive JS/PHP websites, and conducted rigorous QA/UI/UX testing while providing direct technical support to stakeholders.
@@ -63,7 +64,7 @@ Led the end-to-end WordPress & WooCommerce expansion for a local business, inclu
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
 - **Diploma of Information Technology (Web Development/Full-Stack)** — ITMO University *(2026)*
 - **Certificate IV in Information Technology (Web Development)** — Holmesglen Institute of TAFE *(2022)*
@@ -72,12 +73,12 @@ Led the end-to-end WordPress & WooCommerce expansion for a local business, inclu
 
 ---
 
-### 🎧 Beyond the Code
+### Beyond the Code
 I am also the **Founder & Audio Producer** of the *NCTMMRN Independent Record Label* (2017–Present), with 15+ years of experience in sound production, film scoring, and audio editing (including award-winning film credits 🏆). This background gives me a unique, detail-oriented perspective on UI/UX, performance, and the "feel" of a digital product.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SergeiTWeb&show_icons=true&theme=radical&hide_border=true" alt="Sergei's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiTWeb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
@@ -90,4 +91,4 @@ If you find my projects useful or inspiring, consider buying me a coffee!
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.com/paypalme/nctmmrn)
 
 ---
-*💡 "Happy Coding!"*
+*"Happy Coding!"*
