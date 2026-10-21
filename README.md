@@ -3,7 +3,7 @@
 ### 💻 Full-Stack Web Developer & Technical QA Specialist
 Results-oriented developer with 9+ years of practical experience building responsive, user-friendly web applications and ensuring their quality. I combine formal technical qualifications with a strong background in project coordination, client support, and manual testing. 
 
-📍 **Location**: Remote
+📍 **Location**: Remote (CET) / Australia / Finland / Russia 
 🎓 **Education**: Diploma of IT (Full-Stack), ITMO University (2026)  
 🌐 **Portfolio**: [web.sergeitumanov.com](https://web.sergeitumanov.com)  
 💼 **LinkedIn**: [linkedin.com/in/sergei-tumanov](https://linkedin.com/in/sergei-tumanov)  
@@ -41,6 +41,11 @@ Results-oriented developer with 9+ years of practical experience building respon
 A modern, full-stack web application for cataloging, managing, and searching physical music media (CDs, vinyl, cassettes) via the Discogs API.
 - **Tech Stack**: React 18, Vite, Node.js, Express, MySQL, JWT, Nodemailer
 - **Key Features**: Secure JWT authentication, dual-list management (Collection/Wishlist), CSV export, dark/light theming, and a responsive "art gallery" UI.
+
+#### 🏆 [The Tiebreaker](https://github.com/SergeiTWeb/thetiebreaker)
+*[Brief 1-sentence description of what this project does, e.g., "A dynamic web application designed to..."]*
+- **Tech Stack**: [e.g., React, Node.js, PHP, etc.]
+- **Key Features**: [e.g., Real-time data processing, responsive UI, end-to-end testing, etc.]
 
 #### 🛒 E-Commerce Expansion (SummerTech Live Project)
 Led the end-to-end WordPress & WooCommerce expansion for a local business, including database/product migration, technical SEO optimization, and rigorous E2E functional testing.
